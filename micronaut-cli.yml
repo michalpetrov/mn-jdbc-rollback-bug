@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: mn.jdbc.bytearray.update.bug
+---
+testFramework: junit
+sourceLanguage: java
